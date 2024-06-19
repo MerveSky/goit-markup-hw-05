@@ -477,7 +477,7 @@ body {
   border: none;
   border-radius: 4px;
 }
-.modal-window {
+.modal-container {
   position: fixed;
   top: 0;
   left: 0;
